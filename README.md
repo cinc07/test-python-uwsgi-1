@@ -1,1 +1,1 @@
-# test-python-uwsgi-1
+Test Python uwsgi.
