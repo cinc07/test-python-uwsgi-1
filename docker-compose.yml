@@ -1,0 +1,5 @@
+uwsgi_app_1:
+  image: tojasonchen/uwsgi_app_1
+  ports:
+    - "9090:9090"
+
